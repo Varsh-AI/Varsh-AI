@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varsh-AI
+- 👋 Hi, I’m Varsha
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently learning a bunch of stuff......
 
